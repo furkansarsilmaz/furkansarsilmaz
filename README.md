@@ -10,7 +10,7 @@ I'm a software developer with a deep interest in Python and backend technologies
 
 - 💬 Ask me about **Python**, **Backend Development**, and **Automation**  
 - 📫 How to reach me: **furkansrslmz@hotmail.com**  
-- 🌱 Currently improving my skills in **Java**
+- 🌱 Currently improving my skills in **C++**
 
 ---
 
