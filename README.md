@@ -5,12 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p>
-I'm a software developer with a deep interest in Python and backend technologies. I'm constantly learning new tools and expanding my skill set, and I love solving complex problems and creating things. 💡
+Junior SOC Analyst candidate with CompTIA Security+ certification, Python and Linux based network/application security projects. With experience in network discovery, port scanning and log analysis (Nmap, Wireshark) and basic knowledge of SIEM, I aim to start from entry level and move to Red Team / Pentest. I am developing hands-on competence with TryHackMe practices and GitHub projects.
 </p>
 
-- 💬 Ask me about **Python**, **Backend Development**, and **Automation**  
+- 💬 Ask me about **Python**,**c++**, **Backend Development** and **Cyber Security**  
 - 📫 How to reach me: **furkansrslmz@hotmail.com**  
-- 🌱 Currently improving my skills in **C++**
+- 🌱 Currently improving my skills in **Pen testing**
 
 ---
 
