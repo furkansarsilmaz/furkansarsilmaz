@@ -5,12 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p>
-Junior SOC Analyst candidate with CompTIA Security+ certification, Python and Linux based network/application security projects. With experience in network discovery, port scanning and log analysis (Nmap, Wireshark) and basic knowledge of SIEM, I aim to start from entry level and move to Red Team / Pentest. I am developing hands-on competence with TryHackMe practices and GitHub projects.
+Pen Tester candidate with CompTIA Security+ and INE eJPT certification, Python and Linux based network/application security projects. With experience in network discovery, port scanning and log analysis (Nmap, Wireshark) and basic knowledge of SIEM, I aim to start from entry level and move to Red Team / Pentest. I am developing hands-on competence with TryHackMe practices and GitHub projects.
 </p>
 
-- 💬 Ask me about **Python**,**c++**, **Backend Development** and **Cyber Security**  
+- 💬 Ask me about **Cyber Security**,**Python**,**c++** and **Backend Development**  
 - 📫 How to reach me: **furkansrslmz@hotmail.com**  
-- 🌱 Currently improving my skills in **Pen testing**
+- 🌱 Currently improving my skills in **Pen testing** working on CPTS/OSCP
 
 ---
 
